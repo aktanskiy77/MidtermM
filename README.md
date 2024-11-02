@@ -25,6 +25,7 @@ Task 3️⃣: Answer the questions in commit questions
 
 Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
 1 commit in dev-featre
+2 commit in dev-featre
 
 
 Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
