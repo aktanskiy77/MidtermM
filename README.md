@@ -20,6 +20,8 @@ Tasks:
 Task 1️⃣: Create new branch Student_name and add 3 commits.
 1 commit in aktan 
 2 commit in Aktan
+3 commit in Aktan
+
 
 
 Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the process in screenshots
