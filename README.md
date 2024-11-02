@@ -24,6 +24,8 @@ Task 2️⃣: Merge branch two to branch three and rebase three to one. Show the
 Task 3️⃣: Answer the questions in commit questions
 
 Task 4️⃣: Create a new branch called “dev-feature” from the branch "main" and add at least one commit.
+1 commit in dev-featre
+
 
 Task 5️⃣: Resolve merge conflicts that will occur when merging “feature” back into “one”, and add a screenshot of the conflict resolution.
 
